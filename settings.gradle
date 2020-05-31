@@ -1,0 +1,3 @@
+rootProject.name='GithubUserApi'
+include ':app'
+include ':favoriteapp'

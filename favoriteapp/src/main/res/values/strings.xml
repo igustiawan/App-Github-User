@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FavoriteApp</string>
+    <string name="username">username</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="repositories">Repositories</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="data_not_found">Data Not Found</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+    <string name="set_reminder">Daily Reminder Notification</string>
+    <string name="show_notification">Lets Find User People on Github</string>
+</resources>
